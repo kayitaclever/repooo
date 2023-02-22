@@ -1,0 +1,22 @@
+.content{
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+  .floatRight{
+    opacity: inherit;
+    max-width: 60%;
+    float: right;
+border: 1px dotted black;
+margin: 0px 0px 15px 20px;
+}
+.nav a{
+  float: left;
+  padding: 12px;font-size: 17px;
+  width: 15%;
+}
+
+
+.list{
+  float: left;
+
+}
