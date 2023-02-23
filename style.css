@@ -1,22 +1,64 @@
 .content{
-    margin-top: 50px;
+    margin-top: 200px;
     margin-bottom: 100px;
   }
-  .floatRight{
-    opacity: inherit;
-    max-width: 60%;
-    float: right;
-border: 1px dotted black;
-margin: 0px 0px 15px 20px;
+  
+.diva{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+
 }
-.nav a{
-  float: left;
-  padding: 12px;font-size: 17px;
-  width: 15%;
+li{
+  display: inline-block;
+  list-style-type: none;
+  font-size: x-large;
+  padding: 25px 25px;
+  text-decoration: solid;
+
+  
+}
+#best{
+  -webkit-text-fill-color: blue;
+}
+#logo{
+  font-size: large;
+  margin-top: 50%;
+  font-weight: bold;
+  margin-left: 15%;
+}
+.content{
+  margin-left: 15%;
+}
+#gety{
+  background-color:blue;
+  border-color: white;
+  padding: 10px;
+  border-radius: 40px;
 }
 
+  
+  
 
-.list{
-  float: left;
+
+
+
+
+#image{
+  float: right;
+  width: 40%;
+  margin-bottom: 200px;
+  margin-top: 5%;
+  margin-bottom: 20%;
+  margin-right: 5%;
+}
+#flora{
+  text-align: right;
+  background-color: white;
+  border-color: blue;
+  font-size: large;
+  margin-top: 40%;
+  
 
 }
